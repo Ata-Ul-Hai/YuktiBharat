@@ -2,6 +2,8 @@
 
 **An interactive platform that helps students discover their passions and choose the right career path through smart quizzes and personalized guidance.**
 
+### [🚀 Live Demo](https://yukti-bharat-psi.vercel.app/)
+
 YuktiBharat is a Next.js-based web application designed to empower students with career discovery tools. It features a modern, responsive UI with a dark-themed aesthetic, secure authentication via Supabase, and interactive components.
 
 ## Features
