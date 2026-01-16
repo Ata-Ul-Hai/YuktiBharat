@@ -55,7 +55,7 @@ export default function Hero() {
               className="mx-auto mb-12 max-w-2xl text-lg text-muted-foreground"
             >
               Still confused after Class 12? Discover the right stream, college,
-              and career opportunities across Jammu & Kashmir.
+              and career opportunities.
             </motion.p>
 
             <motion.div
